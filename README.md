@@ -12,4 +12,5 @@ sbt test
 
 ### Deploy to local
 gandalf must be deployed locally to be referenced by other projects
+
 sbt publish-local
